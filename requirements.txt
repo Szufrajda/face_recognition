@@ -1,0 +1,2 @@
+//Wpisać w konsoli aby zainstalować wszytskie niezbędne biblioteki
+pip install opencv-python numpy tensorflow scikit-learn keras-facenet
